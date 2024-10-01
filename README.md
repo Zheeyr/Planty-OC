@@ -13,7 +13,7 @@ Bienvenue sur le dépôt du site vitrine **Planty**, un projet visant à mettre 
 ![Screen Desktop](https://i.imgur.com/SdTD42V.jpeg)
 
 ### Version Mobile (iPhone)
-![Screen iPhone](lien_vers_screen_iphone.png)
+![Screen iPhone](https://imgur.com/39a9be84-dca6-4ef8-8589-47bbc87231de)
 
 ## Thème et Extensions
 
